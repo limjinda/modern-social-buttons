@@ -2,7 +2,7 @@
 
 ![Social Buttons](http://i.imgur.com/N2f6jxH.jpg "Social Buttons")
 
-Ready to use, popular social network buttons such as Facebook, Twitter, Google+, Pinterest and Line. This repo is already exported buttons, seperate by type to @1x and @2x.
+A ready to use popular social network button such as Facebook, Twitter, Google+, Pinterest and Line. This repo is already exported to @1x and @2x, seperate by type.
 
 If you want to change wording, Open `social-button.sketch` and edit as you want
 
